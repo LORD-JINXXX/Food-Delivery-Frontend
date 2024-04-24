@@ -21,7 +21,7 @@ const Home = () => {
     
     const data = {
         zone: zone,
-        organization_id: organization,
+        organization_id: Number(organization),
         item_type: item,
         total_distance: Number(formData.total_distance)
     }
