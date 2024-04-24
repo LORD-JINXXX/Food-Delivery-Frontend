@@ -1,3 +1,3 @@
-const base_url = "https://food-deliver-backend-ili5.onrender.com";
+const base_url = "https://food-deliver-backend-q4ss.onrender.com";
 
 export default base_url;
